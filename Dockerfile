@@ -1,4 +1,4 @@
-FROM fkautz/java6-jre
+FROM java:8-jre
 MAINTAINER Phil Plante <phil@rentlytics.com>
 
 WORKDIR /usr/local/sauce-connect
